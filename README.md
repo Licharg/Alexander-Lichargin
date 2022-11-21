@@ -29,15 +29,15 @@
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram]()
-- [Kaggle]()
+- [Kaggle](https://www.kaggle.com/licharg)
 
 ---
 
 ### Hello! 👋
 
 ### ✨ About me in 30 seconds ✨ 
-* 🎓 Education:
- - 
+* 🎓 Education: North-Western Correspondence Polytechnic Institute
+ - engineer specializing in thermal power plants
  - 
  - 
 * 
