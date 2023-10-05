@@ -25,9 +25,10 @@
   - Организационные навыки
 
 ### ⚡️ В настоящее время ⚡️
-- 
-- 
-- 
+* Работаю в области:
+  - строительства зданий и сооружений
+  - поставки строительных материалов и оборудования
+  - изготовления строительных материалов
 - 
 
 ### 🙌🏻 Свяжись со мной
@@ -58,17 +59,18 @@
   - SQL
   - ML
   - Mathplotlib
+  - 
 * Skills:
   - Communication
   - Problem solving
   - Flexibility and adaptability
   - Organizational skills
-
+ 
 ### ⚡️ Currently ⚡️
-- 
-- 
-- 
-- 
+* I work in the field of: 
+  - construction of buildings and structures
+  - supplies of construction materials and equipment
+  - manufacturing of building materials
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/Lichargin)
