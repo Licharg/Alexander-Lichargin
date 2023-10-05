@@ -3,22 +3,26 @@
 ### ✨ Обо мне за 30 секунд ✨ 
 * 🎓 Образование: Северо-Западный заочный политехнический институт
   - Энергетический факультет
-  - инженер по специализации тепловые электрические станции
+  - Инженер по специализации тепловые электрические станции
 * 🎓 Дополнительное образование:
   -	Курс Data Science в SkillFactory
-*  
-
+*  Активно изучаю направление Data Science, в котором предполагаю работать.
 
 ### 📚 Проекты 📚
 
-* Кликни [сюда]() чтобы посмотреть мои проекты
+* Кликни [сюда](https://github.com/Licharg?tab=repositories) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
-- Инструменты: 
-- Skills: 
-    * 
-    * 
-    * 
+* Инструменты: 
+  - Python
+  - SQL
+  - ML
+  - Mathplotlib
+* Навыки: 
+  - Коммуникация
+  - Решение проблем
+  - Гибкость и адаптивность
+  - Организационные навыки
 
 ### ⚡️ В настоящее время ⚡️
 - 
@@ -36,21 +40,29 @@
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education: North-Western Correspondence Polytechnic Institute
- - engineer specializing in thermal power plants
- - 
- - 
-* 
-* 
-* 
-* 
+  - Faculty of Energy
+  - Engineer specializing in thermal power plants
+* 🎓 Additional education:
+  - Data Science course at SkillFactory
+* I am actively studying the direction of Data Science, in which I intend to work.
+
+### 📚 Projects 📚
+
+* Click [here](https://github.com/Licharg?tab=repositories ) to view my projects
+  
 
 ### 💡 Core competencies 💡
-- Tools: 
-  - Skills:
-    * 
-    * 
-    * 
 
+* Tools:
+  - Python
+  - SQL
+  - ML
+  - Mathplotlib
+* Skills:
+  - Communication
+  - Problem solving
+  - Flexibility and adaptability
+  - Organizational skills
 
 ### ⚡️ Currently ⚡️
 - 
@@ -59,5 +71,5 @@
 - 
 
 ### 🙌🏻 Contact me
-- [Telegram]()
+- [Telegram](https://t.me/Lichargin)
 - [Kaggle](https://www.kaggle.com/licharg)
