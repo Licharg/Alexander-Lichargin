@@ -25,9 +25,10 @@
   - Организационные навыки
 
 ### ⚡️ В настоящее время ⚡️
-* Работаю над написанием дипломного проекта по теме:
+* Защитил дипломный проект по теме:
   - Прогноз расхода энергии по временным рядам
 * Параллельно изучаю Excel: сводные таблицы, дашборды
+* Обучаюсь на on-line курсах: Введение в Linux
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/Lichargin)
@@ -65,9 +66,10 @@
   - Organizational skills
  
 ### ⚡️ Currently ⚡️
-* I am working on writing a thesis project on the topic: 
+* I defended my thesis project on the topic:: 
   - Energy consumption forecast by time series
 * I study Excel in parallel: pivot tables, dashboards
+* I am studying online courses: Introduction to Linux
 
 
 ### 🙌🏻 Contact me
