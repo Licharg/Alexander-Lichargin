@@ -25,8 +25,8 @@
   - Организационные навыки
 
 ### ⚡️ В настоящее время ⚡️
-* Защитил дипломный проект по теме:
-  - Прогноз расхода энергии по временным рядам
+* Участвую в соревновании ШИФТ:
+  - Конкурс "Турникеты"
 * Параллельно изучаю Excel: сводные таблицы, дашборды
 * Обучаюсь на on-line курсах: Введение в Linux
 
@@ -66,8 +66,8 @@
   - Organizational skills
  
 ### ⚡️ Currently ⚡️
-* I defended my thesis project on the topic:: 
-  - Energy consumption forecast by time series
+* I'm participating in a SIFT competition: 
+  - The Turnstiles Competition
 * I study Excel in parallel: pivot tables, dashboards
 * I am studying online courses: Introduction to Linux
 
